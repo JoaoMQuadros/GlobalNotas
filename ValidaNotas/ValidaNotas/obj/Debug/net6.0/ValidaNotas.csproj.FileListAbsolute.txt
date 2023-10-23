@@ -1,0 +1,14 @@
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\bin\Debug\net6.0\ValidaNotas.exe
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\bin\Debug\net6.0\ValidaNotas.deps.json
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\bin\Debug\net6.0\ValidaNotas.runtimeconfig.json
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\bin\Debug\net6.0\ValidaNotas.dll
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\bin\Debug\net6.0\ValidaNotas.pdb
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\obj\Debug\net6.0\ValidaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\obj\Debug\net6.0\ValidaNotas.AssemblyInfoInputs.cache
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\obj\Debug\net6.0\ValidaNotas.AssemblyInfo.cs
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\obj\Debug\net6.0\ValidaNotas.csproj.CoreCompileInputs.cache
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\obj\Debug\net6.0\ValidaNotas.dll
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\obj\Debug\net6.0\refint\ValidaNotas.dll
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\obj\Debug\net6.0\ValidaNotas.pdb
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\obj\Debug\net6.0\ValidaNotas.genruntimeconfig.cache
+C:\Users\Joaom\Documents\Visual Studio 2022\Projetos\ValidaNotas\ValidaNotas\obj\Debug\net6.0\ref\ValidaNotas.dll
